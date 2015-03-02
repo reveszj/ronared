@@ -1,0 +1,69 @@
+#tinymce{
+	background-color: #fff;
+}
+
+.cim2 {
+	color:#0d357b;
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:30px;
+	font-weight:bold;
+	letter-spacing:-2px;
+	padding:0 0 5px;
+}
+.cim3{
+	font-family:Arial,Helvetica,sans-serif;
+	color:#0D357B;
+	font-size:20px;
+	padding-bottom:10px;
+}
+.cim4{
+	font-family:Arial,Helvetica,sans-serif;
+	padding-bottom:10px;
+	font-size:15px;
+	color:#870101;
+}
+.cim5{
+	padding-bottom:10px;
+	font-size:13px;
+	color:#666666;
+}
+	
+.normal li{
+	margin: 0.5em 0px 3px 20px;
+	line-height: 150%;
+	}
+	
+.kiemelt{
+	font-family: Arial;
+	margin-bottom: 3px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #d57e02;}
+
+.kisebbszoveg {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000;
+}
+
+.szoveg {
+	line-height:1.9em;
+	margin-bottom:20px;
+}
+
+.idezet {
+	display:block;
+	border-left:5px solid #ddd;
+	padding:10px;
+	margin-bottom:20px;
+}
+.idezet p {
+	font-style:italic;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	margin:0;
+	height: 1%;
+}
+
+.kep{
+	margin: 1em;
+}
