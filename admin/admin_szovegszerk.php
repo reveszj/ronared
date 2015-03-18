@@ -1,4 +1,4 @@
-<?
+<?php
 
 If ($_REQUEST['torles'] != "") {
 	$result = "DELETE FROM ".$_SESSION[adattabla_etag]."szoveg WHERE id = $_REQUEST[torles] LIMIT 1";
@@ -126,7 +126,7 @@ if ($_REQUEST['valaszt'] == ''){
 } else {
 
 	$admin_torzs = '
-	<script type="text/javascript" src="tinymce/tinymce_mod.js"></script>
+	<script type="text/javascript" src="tinymce_4.1.0/tinymce/js/tinymce/tinymce_mod.js"></script>
 	<form method="post" action="?tartalom=szovegszerk&'.$valaszt.'='. $h[1] .'" name="szoveg" class="admin_form">
 		<div class="a_form_fej">Szövegszerkesztés <input type="submit" name="mentes" value="Mentés" class="a_form_mentes" /></div>
 		<div style="width: 600px; float: left; text-align: left; margin: 20px 0px 0px 20px;">

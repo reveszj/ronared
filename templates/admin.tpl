@@ -12,8 +12,7 @@
 	<meta http-equiv="Pragma" content="no-cache" /> 
 	<meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
 	<script type="text/javascript" src="scripts/scripts.js"></script>
-	<script type="text/javascript" src="tinymce/jscripts/tiny_mce/tiny_mce.js"></script>
-	<script type="text/javascript" src="tinymce/jscripts/tiny_mce/tiny_mce_src.js"></script>
+	<script type="text/javascript" src="tinymce_4.1.0/tinymce/js/tinymce/tinymce.min.js"></script>
 	<link rel="StyleSheet" type="text/CSS" href="admin.css" />
 	<link rel="StyleSheet" type="text/CSS" href="my_content.css" />
 </head>
